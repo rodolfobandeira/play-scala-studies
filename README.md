@@ -1,6 +1,6 @@
 # play-scala-studies
 
-Scala and Play framework things:
+Also check
 
 * [https://www.playframework.com/documentation/2.8.x/ScalaRouting](https://www.playframework.com/documentation/2.8.x/ScalaRouting)
 * [https://github.com/http4s/http4s](https://github.com/http4s/http4s)
