@@ -8,3 +8,7 @@ Also check
 * [https://github.com/ghostdogpr/caliban](https://github.com/ghostdogpr/caliban)
 * [https://github.com/akka/akka](https://github.com/akka/akka)
 * [https://github.com/playframework/playframework](https://github.com/playframework/playframework)
+* [https://github.com/tpolecat/doobie](https://github.com/tpolecat/doobie)
+* [https://www.twitch.tv/worace](https://www.twitch.tv/worace)
+* [https://github.com/slick/slick](https://github.com/slick/slick)
+* [https://github.com/amacneil/dbmate](https://github.com/amacneil/dbmate)
